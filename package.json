@@ -1,0 +1,26 @@
+{
+	"name": "jassg-core",
+	"description": "Just another static site generator - Core lib",
+	"homepage": "http://jassg.com",
+	"bugs": {
+		"url": "https://github.com/jassg/jassg-core/issues",
+		"email": "info@jassg.com"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jassg/jassg-core.git"
+	},
+	"keywords": ["node","static","site","generator","html","markdown","blog","jassg","core"],
+	"version": "0.0.1",
+	"author": {
+		"name": "Florian Krauthan",
+		"email": "info@jassg.com",
+		"url": "http://fkrauthan.de"
+	},
+	"engines": [
+		"node >= 0.8.0"
+	],
+	"dependencies": {
+	}
+}
